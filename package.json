@@ -1,10 +1,10 @@
 {
-  "name": "cuongtrang9629",
+  "name": "bellyshishacafe",
   "version": "1.2.3",
-  "description": "KISSY Module Compiler",
+  "description": "Belly Module Compiler",
   "author": {
-    "name": "cuongtrang962927",
-    "email": "cuongtrang962927@gmail.com"
+    "name": "bellyshishacafe",
+    "email": "bellyshishacafe@gmail.com"
   },
   "homepage": "",
   "keywords": [
@@ -14,7 +14,7 @@
     "compiler"
   ],
   "bugs": {
-    "url": "hhttps://github.com/cuongtrang12/cuongtrang234-456"
+    "url": "https://github.com/bellyshishacafe/bellyshisacafe456"
   },
   "contributors": [],
   "engines": {
@@ -40,12 +40,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/cuongtrang12/cuongtrang234-456"
+      "url": "https://github.com/bellyshishacafe/bellyshisacafe456.git"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cuongtrang12/cuongtrang234-456.git"
+    "url": "https://github.com/bellyshishacafe/bellyshisacafe456.git"
   },
   "readmeFilename": "README.md"
 }
